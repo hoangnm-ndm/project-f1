@@ -37,6 +37,18 @@ npm install
 npm run dev
 ```
 
+- Khởi taọ dự án vanilla với vitejs
+
+```
+npm create vite@latest my-project
+```
+
+```
+cd my-project
+npm i
+npm run dev
+```
+
 3. Giải thích cấu trúc dự án
 4. Hướng dẫn sử dụng git
 5. Push code lên github
