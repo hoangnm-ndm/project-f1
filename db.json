@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "id": "sdsdsd",
+        "name": "san pham A",
+        "price": 200,
+        "desc": "Mo ta cho san pham A"
+      },
+      {
+        "id": "vbvbv",
+        "name": "san pham A",
+        "price": 200,
+        "desc": "Mo ta cho san pham A"
+      },
+      {
+        "id": "sdsdghghgsd",
+        "name": "san pham A",
+        "price": 200,
+        "desc": "Mo ta cho san pham A"
+      },
+      {
+        "id": "sdsc",
+        "name": "san pham A",
+        "price": 200,
+        "desc": "Mo ta cho san pham A"
+      },
+      {
+        "id": "23232",
+        "name": "san pham A",
+        "price": 200,
+        "desc": "Mo ta cho san pham A"
+      }
+    ]
+  }
